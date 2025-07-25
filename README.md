@@ -1,3 +1,3 @@
 
 
-<img src ="../img/projvet.png">
+<img src ="img/projvet.png">
